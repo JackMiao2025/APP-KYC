@@ -1,0 +1,5 @@
+{
+  "name": "CyberCrawl Intelligence",
+  "description": "A robust web intelligence dashboard that simulates crawling to analyze domains using AI. It generates tags, sentiment analysis, and visualized comparisons for competitive research.",
+  "requestFramePermissions": []
+}
